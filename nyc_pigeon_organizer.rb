@@ -4,3 +4,5 @@ def nyc_pigeon_organizer(data)
   # write your code here!
   binding.pry
 end
+
+nyc_pigeon_organizer
